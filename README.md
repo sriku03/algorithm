@@ -16,7 +16,7 @@ C言語での実装を通して**問題解決のためのアルゴリズム的�
 
 #### ① 書籍の問題コード（C言語）
 - 『問題解決のためのアルゴリズム×数学が基礎からしっかり身につく本』の全問題を **Cで実装**
-- https://atcoder.jp/contests/math-and-algorithmの問題
+- https://atcoder.jp/contests/math-and-algorithm
 - プログラミングコンテスト攻略のためのアルゴリズムとデータ構造
 
 #### ② 処理系
